@@ -6,9 +6,8 @@ torchaudio
 resemblyzer
 openai-whisper
 pydub
-TTS
 ffmpeg-python
 numpy
 opencv-python
 moviepy
-
+TTS
